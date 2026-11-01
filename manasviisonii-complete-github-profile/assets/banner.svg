@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Manasvi Soni - AI and Data Science">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e20"/><stop offset=".6" stop-color="#151b39"/><stop offset="1" stop-color="#071d2d"/></linearGradient><linearGradient id="a"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7c8cab" stroke-opacity=".10"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="32"/></filter></defs>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<circle cx="1050" cy="65" r="145" fill="#8b5cf6" opacity=".18" filter="url(#glow)"/><circle cx="930" cy="260" r="150" fill="#22d3ee" opacity=".1" filter="url(#glow)"/>
+<g fill="none" stroke="url(#a)" stroke-opacity=".6"><circle cx="1005" cy="178" r="85"/><circle cx="1005" cy="178" r="121" stroke-opacity=".25"/><path d="M878 178h255M1005 51v254" stroke-opacity=".22"/><path d="M920 105l150 146M1090 115L928 244" stroke-opacity=".35"/></g>
+<g fill="#22d3ee"><circle cx="1005" cy="93" r="6"/><circle cx="1088" cy="178" r="5"/><circle cx="946" cy="240" r="5"/><circle cx="1080" cy="102" r="4"/></g>
+<text x="72" y="76" fill="#a5b4fc" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="bold" letter-spacing="5">HELLO, WORLD. I'M</text>
+<text x="67" y="163" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="bold">MANASVI SONI</text>
+<rect x="72" y="186" width="490" height="4" rx="2" fill="url(#a)"/>
+<text x="72" y="238" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="bold">AI / ML · DATA SCIENCE · GENAI</text>
+<text x="72" y="284" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="20">Turning complex problems into intelligent systems.</text>
+<text x="72" y="327" fill="#94a3b8" font-family="monospace" font-size="15">BUILDING  /  LEARNING  /  LEADING  /  INNOVATING</text>
+</svg>
