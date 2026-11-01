@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/coding-night.gif" alt="Animated late-night coding workspace" width="100%" />
+<img src="manasviisonii-complete-github-profile/assets/coding-night.gif" width="100%" />
 
-<img src="assets/hero.svg" alt="Manasvi Soni — AI/ML, Data Science and GenAI" width="100%" />
+<img src="manasviisonii-complete-github-profile/assets/hero.svg" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/manasvi-soni-272200290/">LinkedIn</a> ·
