@@ -1,0 +1,10 @@
+GITHUB PROFILE — FINAL UPLOAD
+
+1. Extract this ZIP.
+2. Open the manasvi-github-profile-final folder.
+3. Upload README.md and the entire assets folder to the ROOT of:
+   https://github.com/manasviisonii/manasviisonii
+4. Do NOT upload the outer manasvi-github-profile-final folder.
+5. Commit changes and visit https://github.com/manasviisonii
+
+The README references assets/coding-night.gif, assets/hero.svg and six SVG project cards under assets/projects/. All must remain at those paths.
