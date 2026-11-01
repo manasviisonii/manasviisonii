@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="assets/coding-night.gif" alt="Animated late-night coding workspace" width="100%" />
-
-<img src="assets/hero.svg" alt="Manasvi Soni — AI/ML, Data Science and GenAI" width="100%" />
+<img src="manasvi-github-profile/assets/coding-night.gif" alt="Animated coding workspace" width="100%" />
+<img src="manasvi-github-profile/assets/hero.svg" width="100%" />
 
 <a href="https://www.linkedin.com/in/manasvi-soni-272200290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:manasvi354@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-BC4C5C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
